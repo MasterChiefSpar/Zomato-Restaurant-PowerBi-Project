@@ -3,8 +3,6 @@
 
 ### Desktop Dashboard Link: https://app.powerbi.com/groups/me/reports/e014e8f5-7e65-4397-bf3a-b698e3c342f9/ReportSection?experience=power-bi
 
-### Mobile Dashboard Link:
-
 ## Problem Statement
 Zomato is currently facing a significant problem in trying to increase revenue and profits over the medium to long-term and has decided to increase same-store sales to please shareholders by identifying the best performing restaurants and their characteristics along with likely reasons of those restaurants excellent performance.  
 
