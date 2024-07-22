@@ -34,6 +34,12 @@ Mobile View Dashboard:
 ![image](https://github.com/user-attachments/assets/11d61173-9af6-4f8f-a3bd-76ec11e640f0)
 ![image](https://github.com/user-attachments/assets/8741ad35-73af-4ed0-be46-10a9eb4c90a0)
 ![image](https://github.com/user-attachments/assets/9978307a-f8a6-4dee-9efe-e97048726db4)
+![image](https://github.com/user-attachments/assets/9e2393a7-1ea3-48cb-b0a3-85ecb80f92ea)
+![image](https://github.com/user-attachments/assets/04e66812-630b-4a2b-bb03-e1588085c2fb)
+![image](https://github.com/user-attachments/assets/bbba0e37-5955-4579-ae5d-44eceb4a2028)
+![image](https://github.com/user-attachments/assets/c220ff49-cc7d-4358-b9a8-178c7b4cc0bd)
+![image](https://github.com/user-attachments/assets/10f6a908-430b-43a3-b2e2-b9e1aa37355a)
+![image](https://github.com/user-attachments/assets/1b69a239-fda0-418a-b534-0d3db14b7f4b)
 
 
 
