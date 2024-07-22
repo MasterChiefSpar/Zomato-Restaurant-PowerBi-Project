@@ -23,6 +23,18 @@ Desktop View Dashboard:
 ![image](https://github.com/user-attachments/assets/2c9112e7-c438-4978-9760-a8c96e2d0b5e)
 ![image](https://github.com/user-attachments/assets/97baf0a0-8845-455e-9ca8-1475d637eb07)
 
+Mobile View Dashboard:
+![image](https://github.com/user-attachments/assets/068c1891-47a1-4112-8fcb-7029ed0e51fe)
+![image](https://github.com/user-attachments/assets/bb7cba7e-e48a-4cda-87fe-9ce93b0c0ac9)
+![image](https://github.com/user-attachments/assets/72ae8080-9ad9-4a7e-a5db-dc63e2c67cb1)
+![image](https://github.com/user-attachments/assets/5fdcdfb1-c9b3-47aa-813e-15561a0ce1ca)
+![image](https://github.com/user-attachments/assets/40f6a342-9073-475f-a316-7255cd80fefc)
+![image](https://github.com/user-attachments/assets/11d61173-9af6-4f8f-a3bd-76ec11e640f0)
+![image](https://github.com/user-attachments/assets/8741ad35-73af-4ed0-be46-10a9eb4c90a0)
+![image](https://github.com/user-attachments/assets/9978307a-f8a6-4dee-9efe-e97048726db4)
+![image](https://github.com/user-attachments/![image](https://github.com/user-attachments/assets/7484a51b-9efe-4f14-b1dd-e0d584af7997)
+assets/63e58eb7-774b-484b-84bc-8bd2989c90f4)
+
 
 
 
