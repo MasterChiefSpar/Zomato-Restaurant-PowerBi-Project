@@ -18,12 +18,14 @@ Zomato is currently facing a significant problem in trying to increase revenue a
 - Step 8: Creation of multiple visualization dashboards optimised for desktop and mobile view for diagnostic analytics purposes.
 
 Desktop View Dashboard:
+
 ![image](https://github.com/user-attachments/assets/5a990933-d000-4cec-900c-bf34c669a855)
 ![image](https://github.com/user-attachments/assets/c57b0664-c56d-4ce0-b4a1-ed860b20234d)
 ![image](https://github.com/user-attachments/assets/2c9112e7-c438-4978-9760-a8c96e2d0b5e)
 ![image](https://github.com/user-attachments/assets/97baf0a0-8845-455e-9ca8-1475d637eb07)
 
 Mobile View Dashboard:
+
 ![image](https://github.com/user-attachments/assets/068c1891-47a1-4112-8fcb-7029ed0e51fe)
 ![image](https://github.com/user-attachments/assets/bb7cba7e-e48a-4cda-87fe-9ce93b0c0ac9)
 ![image](https://github.com/user-attachments/assets/72ae8080-9ad9-4a7e-a5db-dc63e2c67cb1)
