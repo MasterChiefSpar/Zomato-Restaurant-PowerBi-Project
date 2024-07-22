@@ -32,8 +32,6 @@ Mobile View Dashboard:
 ![image](https://github.com/user-attachments/assets/11d61173-9af6-4f8f-a3bd-76ec11e640f0)
 ![image](https://github.com/user-attachments/assets/8741ad35-73af-4ed0-be46-10a9eb4c90a0)
 ![image](https://github.com/user-attachments/assets/9978307a-f8a6-4dee-9efe-e97048726db4)
-![image](https://github.com/user-attachments/![image](https://github.com/user-attachments/assets/7484a51b-9efe-4f14-b1dd-e0d584af7997)
-assets/63e58eb7-774b-484b-84bc-8bd2989c90f4)
 
 
 
